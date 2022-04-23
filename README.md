@@ -5,7 +5,7 @@
 # Archived Updates (currently only Dev Builds)
 ## 0.5a Dev Build
 - Taunt added
-- Test card removed
+- Test map removed
 
 ## 0.4a Dev Build
 - Added 1 more map, there are now 3 maps.
