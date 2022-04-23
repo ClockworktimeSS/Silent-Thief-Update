@@ -2,16 +2,6 @@
 ## 0.7a Dev Build
 - Added test map again
 
-
-
-
-
-
-
-
-
-
-
 # Archived Updates (currently only Dev Builds)
 ## 0.5a Dev Build
 - Taunt added
