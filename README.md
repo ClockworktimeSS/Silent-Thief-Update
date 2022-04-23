@@ -2,6 +2,11 @@
 ## 0.7a Dev Build
 - Added test map again
 
+# Images / GIFs
+
+### Spawn + Death
+![alt text](https://media.discordapp.net/attachments/939542817062158366/967214925946691754/Preview.gif?width=480&height=270)
+
 # Archived Updates (currently only Dev Builds)
 ## 0.5a Dev Build
 - Taunt added
